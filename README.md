@@ -7,12 +7,13 @@ ___________   __        _______     ______  ___________
    \:  | /   /  \\  \ |:  __   \ \        /    \:  |    
     \__|(___/    \___)|__|  \___) \"_____/      \__|    
 ```
+<img width="3840" height="2160" alt="preview" src="https://github.com/user-attachments/assets/c8439611-1ed9-4671-97b0-ffe91fffa7f9" />
+
+
 > Inspired by Base16 Tarot terminal colors. Modified by Dizziee.
 
 Tarot theme was created specifically for the **OMARCHY** | Hyprland system.</br>
 *Where the precision of code cultivates a garden of minimalist beauty.*
-<img width="3840" height="2160" alt="preview" src="https://github.com/user-attachments/assets/47bdea14-37d4-4f4e-942a-64b858e7640d" />
-
 
 # Installation
 This theme can be installed a few ways to your Omarchy system. Choose one.
