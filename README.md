@@ -8,7 +8,8 @@ ___________   __        _______     ______  ___________
     \__|(___/    \___)|__|  \___) \"_____/      \__|    
 ```
 <img width="3840" height="2160" alt="preview" src="https://github.com/user-attachments/assets/c8439611-1ed9-4671-97b0-ffe91fffa7f9" />
-
+<img width="1920" height="1080" alt="preview-unlock" src="https://github.com/user-attachments/assets/b45d49a2-efbe-4850-a24e-017c1cc16b9e" />
+New, Omarchy 3.7+ (Plymouth) Unlock Screen 
 
 > Inspired by Base16 Tarot terminal colors. Modified by Dizziee.
 
